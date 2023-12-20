@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.chaimae.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-01T10:31:23" hostname="saymae" time="1.674">
+<testsuite name="com.chaimae.calculator.CalculatorApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-12-15T09:08:35" hostname="saymae" time="1.93">
   <properties/>
-  <testcase name="contextLoads()" classname="com.chaimae.calculator.CalculatorApplicationTests" time="1.674"/>
-  <system-out><![CDATA[11:31:19.422 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.chaimae.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
-11:31:19.702 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.chaimae.calculator.CalculatorApplication for test class com.chaimae.calculator.CalculatorApplicationTests
+  <testcase name="contextLoads()" classname="com.chaimae.calculator.CalculatorApplicationTests" time="1.93"/>
+  <system-out><![CDATA[10:08:30.611 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.chaimae.calculator.CalculatorApplicationTests]: CalculatorApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+10:08:30.980 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.chaimae.calculator.CalculatorApplication for test class com.chaimae.calculator.CalculatorApplicationTests
 
   .   ____          _            __ _ _
  /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
@@ -13,9 +13,9 @@
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::                (v3.2.0)
 
-2023-12-01T11:31:20.687+01:00  INFO 11896 --- [    Test worker] c.c.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 11896 (started by chaimae in /home/chaimae/calculator)
-2023-12-01T11:31:20.691+01:00  INFO 11896 --- [    Test worker] c.c.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
-2023-12-01T11:31:23.309+01:00  INFO 11896 --- [    Test worker] c.c.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 3.187 seconds (process running for 5.904)
+2023-12-15T10:08:32.058+01:00  INFO 11960 --- [    Test worker] c.c.c.CalculatorApplicationTests         : Starting CalculatorApplicationTests using Java 17.0.9 with PID 11960 (started by chaimae in /home/chaimae/calculator)
+2023-12-15T10:08:32.064+01:00  INFO 11960 --- [    Test worker] c.c.c.CalculatorApplicationTests         : No active profile set, falling back to 1 default profile: "default"
+2023-12-15T10:08:35.091+01:00  INFO 11960 --- [    Test worker] c.c.c.CalculatorApplicationTests         : Started CalculatorApplicationTests in 3.692 seconds (process running for 7.148)
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
